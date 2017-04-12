@@ -1,0 +1,13 @@
+{
+    "name": "canal-web/fileuploadattribute",
+    "type": "magento-module",
+    "description": "Composer version of jahvi's module.",
+    "require": {
+    },
+    "authors":[
+      {
+            "name":"Fabio Cerqueira",
+            "email":"fabio@canal-web.fr"
+        }
+    ]
+}
