@@ -35,7 +35,7 @@ class Jvs_FileAttribute_Model_Observer
                 'is_comparable',
                 'is_used_for_promo_rules',
                 'position',
-                'used_in_product_listing',
+                //'used_in_product_listing',
                 'used_for_sort_by',
             )
         );
