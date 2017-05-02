@@ -45,6 +45,8 @@ class Jvs_FileAttribute_Model_Attribute_Backend_File
                     'wav',
                     'pdf',
                     'txt',
+                    'xls',
+                    'xlsx',
                 )
             );
 
